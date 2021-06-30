@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def report_back(num)
   if num >= 0 && num <= 50
     puts 'the number is between 0 to 50'

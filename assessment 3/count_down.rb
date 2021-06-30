@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def count_down(var)
   var.downto(0).each do
     puts var

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def shopbill(items, name, price, quantity)
   puts '\n\n\n\n---------------------------------------------------------------------'
   puts "Item\t\tPrice\t\tQuatity\t\tTotal price of Item"
